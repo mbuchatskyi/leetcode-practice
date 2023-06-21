@@ -1,4 +1,4 @@
-package mbuchatskyi.easy;
+package mbuchatskyi.easy.problem001;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -7,7 +7,7 @@ import java.util.Set;
  * Given an integer array nums, return true if any value appears at least twice
  * in the array, and return false if every element is distinct.
  * 
- * {@link https://leetcode.com/problems/contains-duplicate/}
+ * @see https://leetcode.com/problems/contains-duplicate/}
  */
 public class ContainsDuplicate {
 	public static boolean containsDuplicate(int[] nums) {
