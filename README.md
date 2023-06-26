@@ -4,6 +4,6 @@ The entire problem list can be found here: https://seanprashad.com/leetcode-patt
 
 | №             | Title               |
 | ------------- |:------------------: |
-| 1             | [Contains Duplicate](https://github.com/mbuchatskyi/leetcode-practice/blob/main/src/main/java/mbuchatskyi/easy/ContainsDuplicate.java)  |
-| 2             | centered            | 
-| 3             | are neat            |
+| 1             | [Contains Duplicate](https://github.com/mbuchatskyi/leetcode-practice/blob/main/src/main/java/mbuchatskyi/easy/problem001/ContainsDuplicate.java)  |
+| 2             | [Missing Number](https://github.com/mbuchatskyi/leetcode-practice/blob/main/src/main/java/mbuchatskyi/easy/problem002/MissingNumber.java)            | 
+| 3             | [Find All Numbers Disappeared in an Array]()            |
